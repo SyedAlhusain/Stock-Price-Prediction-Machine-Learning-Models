@@ -4,13 +4,13 @@ This Program aims to predict stock prices using various machine learning models,
 
 ## Libraries Used
 
-pandas: Data manipulation and analysis
-yfinance: Fetching historical stock data
-numpy: Numerical operations
-matplotlib: Plotting graphs
-sklearn: Machine learning models and tools
-datetime: Working with dates and times
-joblib: Parallel processing for model training
+- pandas: Data manipulation and analysis
+- yfinance: Fetching historical stock data
+- numpy: Numerical operations
+- matplotlib: Plotting graphs
+- sklearn: Machine learning models and tools
+- datetime: Working with dates and times
+- joblib: Parallel processing for model training
 
 
 ## Skills Demonstrated
