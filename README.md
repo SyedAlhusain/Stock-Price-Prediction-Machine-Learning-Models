@@ -1,3 +1,7 @@
+## Results
+
+- [S&P 500 Prediction](https://nbviewer.org/github/SyedAlhusain/Stock-Price-Prediction-Machine-Learning-Models/blob/main/S%26P%20Stock%20Prediction%20Machine%20Learning%20Model.ipynb) 
+
 ## Overview
 This Program aims to predict stock prices using various machine learning models, namely Linear Regression, Polynomial Regression, and Radial Basis Function (RBF) Regression. The code fetches historical stock data for companies in the S&P 500 index, calculates daily returns, and trains different regression models for stock price prediction.
 
